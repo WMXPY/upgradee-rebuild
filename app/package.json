@@ -1,0 +1,22 @@
+{
+  "name": "upgradee",
+  "version": "0.0.0",
+  "description": "An electron-vue project",
+  "main": "./dist/main.js",
+  "dependencies": {
+    "babel-runtime": "^6.23.0",
+    "css-loader": "^0.28.0",
+    "file-loader": "^0.11.1",
+    "font-awesome": "^4.7.0",
+    "font-awesome-webpack": "0.0.5-beta.2",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.3",
+    "request": "^2.81.0",
+    "style-loader": "^0.16.1",
+    "vue": "^2.1.10",
+    "vue-electron": "^1.0.6",
+    "vue-router": "^2.1.2"
+  },
+  "devDependencies": {},
+  "author": "WMXPY <wm@wmpcxpy.com>"
+}
